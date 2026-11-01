@@ -1,10 +1,11 @@
 {
-  "title": "First gate of the Hosenabad Imambara",
-  "author": "Unknown",
-  "license": "Public domain",
-  "license_url": "",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Lucknow_Album_(43)_-_First_gate_of_the_Hosenabad_Imambara.jpg",
-  "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Lucknow_Album_%2843%29_-_First_gate_of_the_Hosenabad_Imambara.jpg/1280px-Lucknow_Album_%2843%29_-_First_gate_of_the_Hosenabad_Imambara.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "commons_file": "File:Lucknow Album (43) - First gate of the Hosenabad Imambara.jpg",
-  "query": "security gate illustration"
+  "title": "OpenMoji door",
+  "author": "OpenMoji contributors",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/618x618/1F6AA.png",
+  "download_url": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F6AA.png",
+  "commons_file": "1F6AA",
+  "query": "security gate illustration",
+  "collection": "OpenMoji"
 }

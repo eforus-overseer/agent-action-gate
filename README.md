@@ -48,4 +48,4 @@ If this problem interests you, start with the first milestone above. Open an iss
 
 ![Pixel-art cover for agent-action-gate](assets/project-cover.png)
 
-<sub>Pixel-art adaptation of [First gate of the Hosenabad Imambara](https://commons.wikimedia.org/wiki/File:Lucknow_Album_(43)_-_First_gate_of_the_Hosenabad_Imambara.jpg) by Unknown, licensed Public domain. Source: Wikimedia Commons.</sub>
+<sub>Pixel-art adaptation of [OpenMoji door](https://github.com/hfg-gmuend/openmoji/blob/master/color/618x618/1F6AA.png) by OpenMoji contributors, licensed [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Source: OpenMoji.</sub>
