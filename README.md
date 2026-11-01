@@ -44,8 +44,8 @@ If this problem interests you, start with the first milestone above. Open an iss
 
 
 <!-- codex-pixel-art -->
-## Pixel art
+## Project visual
 
-![Pixel art for agent-action-gate](assets/pixel-art.svg)
+![Pixel-art cover for agent-action-gate](assets/project-cover.png)
 
-A small visual signature for this repository.
+<sub>Pixel-art adaptation of [First gate of the Hosenabad Imambara](https://commons.wikimedia.org/wiki/File:Lucknow_Album_(43)_-_First_gate_of_the_Hosenabad_Imambara.jpg) by Unknown, licensed Public domain. Source: Wikimedia Commons.</sub>
